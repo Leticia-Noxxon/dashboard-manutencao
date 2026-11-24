@@ -1,4 +1,16 @@
 ﻿data,nome_garagem,modulo_serial,acao,equipamento
+24 de nov. de 2026,Gato Preto,28893,Substituição do Chicote Elétrico,switch NX6020
+24 de nov. de 2026,Gato Preto,29730,Configuração de Firmware - Sem defeito,TDM NX6010
+24 de nov. de 2026,Gato Preto,29737,CN2 substituição do chicote,TDM NX6010
+24 de nov. de 2026,Gato Preto,29794,Configuração de Firmware - Sem defeito,UCP NX6000
+24 de nov. de 2026,Gato Preto,29828,Substituição da Raspberry Pi,TDM NX6010
+24 de nov. de 2026,Gato Preto,29888,"Sem defeito, revisado",TDM NX6010
+24 de nov. de 2026,Gato Preto,29924,"Sem defeito, revisado",TDM NX6010
+24 de nov. de 2026,Gato Preto,29929,Configuração de Firmware - Sem defeito,TDM NX6010
+24 de nov. de 2026,Gato Preto,30015,Substituição da Raspberry Pi,TDM NX6010
+24 de nov. de 2026,Gato Preto,30022,Configuração de Firmware - Sem defeito,UCP NX6000
+23 de nov. de 2026,Gato Preto,28778,Substituição do Chicote Elétrico,switch NX6020
+23 de nov. de 2026,Gato Preto,28827,Substituição do Cabo de Alimentação do Switch,switch NX6020
 19 de nov. de 2026,Gato Preto,29015,Substituição do Chicote Elétrico,switch NX6020
 18 de nov. de 2026,Gato Preto,29742,Calibração,NOBREAK
 18 de nov. de 2026,Gato Preto,29862,Configuração de Firmware - Sem defeito,NOBREAK
@@ -29,7 +41,7 @@
 9 de nov. de 2026,Gato Preto,29887,Configuração de Firmware - Sem defeito,TDM NX6010
 9 de nov. de 2026,Gato Preto,29911,Configuração de Firmware - Sem defeito,UCP NX6000
 9 de nov. de 2026,Gato Preto,36684,CN2 substituição do chicote,TDM NX6010
-6 de nov. de 2026,Gato Preto,00014,Substituição do Conversor de Tensão XL6009,switch NX6020
+6 de nov. de 2026,Gato Preto,00014,Substituição do Chicote Elétrico,switch NX6020
 5 de nov. de 2026,Gato Preto,29794,Substituição da Raspberry Pi,TDM NX6010
 5 de nov. de 2026,Gato Preto,29902,CN2 substituição do chicote,TDM NX6010
 5 de nov. de 2026,Gato Preto,29907,CN2 substituição do chicote,TDM NX6010
@@ -40,12 +52,12 @@
 5 de nov. de 2026,Gato Preto,30042,Configuração de Firmware - Sem defeito,UCP NX6000
 5 de nov. de 2026,Gato Preto,30072,CN2 substituição do chicote,TDM NX6010
 5 de nov. de 2026,Gato Preto,32210,CN2 substituição do chicote,TDM NX6010
-4 de nov. de 2026,Gato Preto,28894,Substituição do Conversor de Tensão XL6009,switch NX6020
+4 de nov. de 2026,Gato Preto,28894,Substituição do Chicote Elétrico,switch NX6020
 4 de nov. de 2026,Gato Preto,36378,Substituição do Conversor de Tensão XL6009,switch NX6020
 3 de nov. de 2026,Gato Preto,28768,Substituição do Conversor de Tensão XL6009,switch NX6020
 3 de nov. de 2026,Gato Preto,28975,"Sem defeito, revisado",switch NX6020
 28 de out. de 2026,Gato Preto,29843,Configuração de Firmware - Sem defeito,UCP NX6000
-27 de out. de 2026,Gato Preto,28734,Substituição do Conversor de Tensão XL6009,switch NX6020
+27 de out. de 2026,Gato Preto,28734,Substituição do Chicote Elétrico,switch NX6020
 27 de out. de 2026,Gato Preto,28950,Substituição do Cabo de Alimentação do Switch,switch NX6020
 27 de out. de 2026,Gato Preto,29796,Substituição da Raspberry Pi,TDM NX6010
 26 de out. de 2026,Gato Preto,36611,Configuração de Firmware - Sem defeito,UCP NX6000
@@ -286,7 +298,7 @@
 11 de jun. de 2026,Gato Preto,30009,Configuração de Firmware - Sem defeito,UCP NX6000
 11 de jun. de 2026,Gato Preto,30045,Configuração de Firmware - Sem defeito,UCP NX6000
 9 de jun. de 2026,Gato Preto,29744,Configuração de Firmware - Sem defeito,UCP NX6000
-9 de jun. de 2026,Gato Preto,29777,Configuração de Firmware - Sem defeito,UCP NX6000
+9 de jun. de 2026,Gato Preto,29777,Configuração de Firmware - Sem defeito,TDM NX6010
 9 de jun. de 2026,Gato Preto,29987,Configuração de Firmware - Sem defeito,TDM NX6010
 9 de jun. de 2026,Gato Preto,30014,Configuração de Firmware - Sem defeito,UCP NX6000
 9 de jun. de 2026,Gato Preto,36156,Configuração de Firmware - Sem defeito,UCP NX6000
